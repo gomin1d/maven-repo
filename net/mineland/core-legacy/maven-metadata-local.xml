@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.mineland</groupId>
+  <artifactId>core-legacy</artifactId>
+  <versioning>
+    <release>from_survival_plus</release>
+    <versions>
+      <version>from_survival_plus</version>
+    </versions>
+    <lastUpdated>20190228134323</lastUpdated>
+  </versioning>
+</metadata>

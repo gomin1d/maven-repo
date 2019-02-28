@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.mineland</groupId>
+  <artifactId>HeadDatabase</artifactId>
+  <versioning>
+    <release>4.6.3</release>
+    <versions>
+      <version>4.6.3</version>
+    </versions>
+    <lastUpdated>20190228134430</lastUpdated>
+  </versioning>
+</metadata>
