@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.mineland-launcher</groupId>
+  <artifactId>jfxrt</artifactId>
+  <versioning>
+    <release>jvm8</release>
+    <versions>
+      <version>jvm8</version>
+    </versions>
+    <lastUpdated>20190328152245</lastUpdated>
+  </versioning>
+</metadata>
