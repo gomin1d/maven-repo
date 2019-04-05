@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.lokha</groupId>
+  <artifactId>NoteBlockAPI</artifactId>
+  <versioning>
+    <release>lokhamaven</release>
+    <versions>
+      <version>lokhamaven</version>
+    </versions>
+    <lastUpdated>20190405145941</lastUpdated>
+  </versioning>
+</metadata>
