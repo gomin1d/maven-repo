@@ -3,10 +3,11 @@
   <groupId>net.mineland</groupId>
   <artifactId>RobberyNewPlayers</artifactId>
   <versioning>
-    <release>suka</release>
+    <release>fixnick</release>
     <versions>
       <version>suka</version>
+      <version>fixnick</version>
     </versions>
-    <lastUpdated>20190228134357</lastUpdated>
+    <lastUpdated>20190426111510</lastUpdated>
   </versioning>
 </metadata>
