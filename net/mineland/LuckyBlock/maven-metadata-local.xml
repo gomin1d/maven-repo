@@ -3,10 +3,11 @@
   <groupId>net.mineland</groupId>
   <artifactId>LuckyBlock</artifactId>
   <versioning>
-    <release>fix</release>
+    <release>fixdupe</release>
     <versions>
       <version>fix</version>
+      <version>fixdupe</version>
     </versions>
-    <lastUpdated>20190228133842</lastUpdated>
+    <lastUpdated>20190505114539</lastUpdated>
   </versioning>
 </metadata>
