@@ -3,12 +3,13 @@
   <groupId>ru.yottacraft</groupId>
   <artifactId>BungeeCord</artifactId>
   <versioning>
-    <release>ready1.14</release>
+    <release>1_14_2</release>
     <versions>
       <version>ready_1.13.2</version>
       <version>ready_1.13.1</version>
       <version>ready1.14</version>
+      <version>1_14_2</version>
     </versions>
-    <lastUpdated>20190508155901</lastUpdated>
+    <lastUpdated>20190531060408</lastUpdated>
   </versioning>
 </metadata>
