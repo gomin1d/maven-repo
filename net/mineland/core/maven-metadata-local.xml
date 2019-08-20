@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.mineland</groupId>
+  <artifactId>core</artifactId>
+  <versioning>
+    <release>log-lag</release>
+    <versions>
+      <version>log-lag</version>
+    </versions>
+    <lastUpdated>20190820022017</lastUpdated>
+  </versioning>
+</metadata>
