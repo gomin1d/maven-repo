@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.mineland</groupId>
+  <artifactId>core-hub</artifactId>
+  <versioning>
+    <release>core-hub</release>
+    <versions>
+      <version>core-hub</version>
+    </versions>
+    <lastUpdated>20190820022111</lastUpdated>
+  </versioning>
+</metadata>
