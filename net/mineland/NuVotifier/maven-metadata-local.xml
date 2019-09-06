@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.mineland</groupId>
+  <artifactId>NuVotifier</artifactId>
+  <versioning>
+    <release>frommineland</release>
+    <versions>
+      <version>frommineland</version>
+    </versions>
+    <lastUpdated>20190906234409</lastUpdated>
+  </versioning>
+</metadata>
