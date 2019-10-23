@@ -3,11 +3,12 @@
   <groupId>net.mineland</groupId>
   <artifactId>ViaRewind</artifactId>
   <versioning>
-    <release>1.4.0</release>
+    <release>1.4.0-x1cyande</release>
     <versions>
       <version>1.3.13</version>
       <version>1.4.0</version>
+      <version>1.4.0-x1cyande</version>
     </versions>
-    <lastUpdated>20190510210409</lastUpdated>
+    <lastUpdated>20191023014901</lastUpdated>
   </versioning>
 </metadata>

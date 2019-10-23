@@ -3,11 +3,12 @@
   <groupId>net.mineland</groupId>
   <artifactId>ViaBackwards</artifactId>
   <versioning>
-    <release>2.4.0</release>
+    <release>2.4.0-x1cyande</release>
     <versions>
       <version>2.3.1</version>
       <version>2.4.0</version>
+      <version>2.4.0-x1cyande</version>
     </versions>
-    <lastUpdated>20190510210519</lastUpdated>
+    <lastUpdated>20191023014853</lastUpdated>
   </versioning>
 </metadata>
