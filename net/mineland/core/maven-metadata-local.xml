@@ -3,14 +3,15 @@
   <groupId>net.mineland</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>log-console-command</release>
+    <release>paper1.14.4_build226</release>
     <versions>
       <version>log-lag</version>
       <version>log-lag-v2</version>
       <version>log-lag-v3</version>
       <version>log-lag-v4</version>
       <version>log-console-command</version>
+      <version>paper1.14.4_build226</version>
     </versions>
-    <lastUpdated>20191103160920</lastUpdated>
+    <lastUpdated>20191111145336</lastUpdated>
   </versioning>
 </metadata>
