@@ -3,10 +3,11 @@
   <groupId>ru.yottacraft</groupId>
   <artifactId>PaperSpigot</artifactId>
   <versioning>
-    <release>build1384</release>
+    <release>build1384_profiles</release>
     <versions>
       <version>build1384</version>
+      <version>build1384_profiles</version>
     </versions>
-    <lastUpdated>20190306153322</lastUpdated>
+    <lastUpdated>20191112000041</lastUpdated>
   </versioning>
 </metadata>
