@@ -3,10 +3,11 @@
   <groupId>net.mineland</groupId>
   <artifactId>FAWE</artifactId>
   <versioning>
-    <release>1144</release>
+    <release>fix_schema</release>
     <versions>
       <version>1144</version>
+      <version>fix_schema</version>
     </versions>
-    <lastUpdated>20190228134511</lastUpdated>
+    <lastUpdated>20191120225331</lastUpdated>
   </versioning>
 </metadata>
