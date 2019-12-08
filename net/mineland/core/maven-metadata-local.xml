@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>paper1.14.4_build226_try2</release>
+    <release>fix-load-chunk</release>
     <versions>
       <version>log-lag</version>
       <version>log-lag-v2</version>
@@ -12,7 +12,8 @@
       <version>log-console-command</version>
       <version>paper1.14.4_build226</version>
       <version>paper1.14.4_build226_try2</version>
+      <version>fix-load-chunk</version>
     </versions>
-    <lastUpdated>20191111150812</lastUpdated>
+    <lastUpdated>20191208135144</lastUpdated>
   </versioning>
 </metadata>
