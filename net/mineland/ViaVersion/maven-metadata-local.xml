@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>ViaVersion</artifactId>
   <versioning>
-    <release>2.1.4-1.15-pre3</release>
+    <release>2.1.4fixlag</release>
     <versions>
       <version>1.6.0</version>
       <version>2.0.1</version>
@@ -12,7 +12,8 @@
       <version>2.1.4-SNAPSHOTv2</version>
       <version>2.1.4-x1cyande</version>
       <version>2.1.4-1.15-pre3</version>
+      <version>2.1.4fixlag</version>
     </versions>
-    <lastUpdated>20191202082154</lastUpdated>
+    <lastUpdated>20191208172243</lastUpdated>
   </versioning>
 </metadata>
