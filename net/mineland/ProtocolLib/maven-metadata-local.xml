@@ -3,10 +3,11 @@
   <groupId>net.mineland</groupId>
   <artifactId>ProtocolLib</artifactId>
   <versioning>
-    <release>415</release>
+    <release>4.4.0lokha</release>
     <versions>
       <version>415</version>
+      <version>4.4.0lokha</version>
     </versions>
-    <lastUpdated>20190228134551</lastUpdated>
+    <lastUpdated>20191214224037</lastUpdated>
   </versioning>
 </metadata>
