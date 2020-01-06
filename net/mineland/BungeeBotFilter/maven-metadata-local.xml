@@ -3,12 +3,13 @@
   <groupId>net.mineland</groupId>
   <artifactId>BungeeBotFilter</artifactId>
   <versioning>
-    <release>antikick</release>
+    <release>logs</release>
     <versions>
       <version>3.6</version>
       <version>update1.14</version>
       <version>antikick</version>
+      <version>logs</version>
     </versions>
-    <lastUpdated>20190908002705</lastUpdated>
+    <lastUpdated>20200106134857</lastUpdated>
   </versioning>
 </metadata>
