@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>morecrashlogs</release>
+    <release>fix-chash-log-on-startup</release>
     <versions>
       <version>log-lag</version>
       <version>log-lag-v2</version>
@@ -18,7 +18,8 @@
       <version>fixasyncloadworld</version>
       <version>fixasyncloadworld_x2</version>
       <version>morecrashlogs</version>
+      <version>fix-chash-log-on-startup</version>
     </versions>
-    <lastUpdated>20200318184056</lastUpdated>
+    <lastUpdated>20200321013632</lastUpdated>
   </versioning>
 </metadata>
