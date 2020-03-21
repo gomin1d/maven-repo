@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>inventory-performance</release>
+    <release>max20pages</release>
     <versions>
       <version>log-lag</version>
       <version>log-lag-v2</version>
@@ -21,7 +21,8 @@
       <version>fix-chash-log-on-startup</version>
       <version>book-performance</version>
       <version>inventory-performance</version>
+      <version>max20pages</version>
     </versions>
-    <lastUpdated>20200321121617</lastUpdated>
+    <lastUpdated>20200321122244</lastUpdated>
   </versioning>
 </metadata>
