@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>book-performance</release>
+    <release>inventory-performance</release>
     <versions>
       <version>log-lag</version>
       <version>log-lag-v2</version>
@@ -20,7 +20,8 @@
       <version>morecrashlogs</version>
       <version>fix-chash-log-on-startup</version>
       <version>book-performance</version>
+      <version>inventory-performance</version>
     </versions>
-    <lastUpdated>20200321021707</lastUpdated>
+    <lastUpdated>20200321121617</lastUpdated>
   </versioning>
 </metadata>
