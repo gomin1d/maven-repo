@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>debugexceptionstructures</release>
+    <release>threadslog</release>
     <versions>
       <version>log-lag</version>
       <version>log-lag-v2</version>
@@ -23,7 +23,8 @@
       <version>inventory-performance</version>
       <version>max20pages</version>
       <version>debugexceptionstructures</version>
+      <version>threadslog</version>
     </versions>
-    <lastUpdated>20200328233207</lastUpdated>
+    <lastUpdated>20200408004903</lastUpdated>
   </versioning>
 </metadata>
