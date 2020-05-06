@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>threadslog</release>
+    <release>updatehopper</release>
     <versions>
       <version>log-lag</version>
       <version>log-lag-v2</version>
@@ -24,7 +24,8 @@
       <version>max20pages</version>
       <version>debugexceptionstructures</version>
       <version>threadslog</version>
+      <version>updatehopper</version>
     </versions>
-    <lastUpdated>20200408004903</lastUpdated>
+    <lastUpdated>20200506213425</lastUpdated>
   </versioning>
 </metadata>
