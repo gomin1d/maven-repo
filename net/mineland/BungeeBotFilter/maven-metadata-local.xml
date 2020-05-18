@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>BungeeBotFilter</artifactId>
   <versioning>
-    <release>connectionthrottle</release>
+    <release>fixddos</release>
     <versions>
       <version>3.6</version>
       <version>update1.14</version>
@@ -12,7 +12,8 @@
       <version>more_logs</version>
       <version>blacksky</version>
       <version>connectionthrottle</version>
+      <version>fixddos</version>
     </versions>
-    <lastUpdated>20200325063242</lastUpdated>
+    <lastUpdated>20200518010846</lastUpdated>
   </versioning>
 </metadata>
