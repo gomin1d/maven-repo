@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>1_15</release>
+    <release>1_15_x2</release>
     <versions>
       <version>log-lag</version>
       <version>log-lag-v2</version>
@@ -27,7 +27,8 @@
       <version>updatehopper</version>
       <version>updatehopper_x2</version>
       <version>1_15</version>
+      <version>1_15_x2</version>
     </versions>
-    <lastUpdated>20200611112929</lastUpdated>
+    <lastUpdated>20200611113154</lastUpdated>
   </versioning>
 </metadata>
