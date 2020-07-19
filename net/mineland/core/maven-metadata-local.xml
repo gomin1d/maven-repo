@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>1.16.1</release>
+    <release>fixinvalidpacket</release>
     <versions>
       <version>log-lag</version>
       <version>log-lag-v2</version>
@@ -31,7 +31,8 @@
       <version>ignoreexception</version>
       <version>limitchatthread</version>
       <version>1.16.1</version>
+      <version>fixinvalidpacket</version>
     </versions>
-    <lastUpdated>20200711005623</lastUpdated>
+    <lastUpdated>20200719122348</lastUpdated>
   </versioning>
 </metadata>
