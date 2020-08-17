@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>ViaRewind</artifactId>
   <versioning>
-    <release>1.5.0_fixanticheat</release>
+    <release>1.5.1_fixanticheat</release>
     <versions>
       <version>1.3.13</version>
       <version>1.4.0</version>
@@ -11,7 +11,8 @@
       <version>1.4.0-x1cyande-x2</version>
       <version>1.5.0</version>
       <version>1.5.0_fixanticheat</version>
+      <version>1.5.1_fixanticheat</version>
     </versions>
-    <lastUpdated>20200722184748</lastUpdated>
+    <lastUpdated>20200817085759</lastUpdated>
   </versioning>
 </metadata>
