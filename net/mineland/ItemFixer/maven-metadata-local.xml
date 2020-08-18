@@ -3,12 +3,13 @@
   <groupId>net.mineland</groupId>
   <artifactId>ItemFixer</artifactId>
   <versioning>
-    <release>3.1-modified-x3</release>
+    <release>3.1-addlogs</release>
     <versions>
       <version>3.1-modified</version>
       <version>3.1-modified-x2</version>
       <version>3.1-modified-x3</version>
+      <version>3.1-addlogs</version>
     </versions>
-    <lastUpdated>20191115221804</lastUpdated>
+    <lastUpdated>20200818053531</lastUpdated>
   </versioning>
 </metadata>
