@@ -3,7 +3,7 @@
   <groupId>ru.yottacraft</groupId>
   <artifactId>BungeeCord</artifactId>
   <versioning>
-    <release>1_14_4</release>
+    <release>1_16</release>
     <versions>
       <version>ready_1.13.2</version>
       <version>ready_1.13.1</version>
@@ -11,7 +11,8 @@
       <version>1_14_2</version>
       <version>1_14_3</version>
       <version>1_14_4</version>
+      <version>1_16</version>
     </versions>
-    <lastUpdated>20190812192708</lastUpdated>
+    <lastUpdated>20200918201348</lastUpdated>
   </versioning>
 </metadata>
