@@ -3,11 +3,12 @@
   <groupId>net.mineland</groupId>
   <artifactId>WorldEdit</artifactId>
   <versioning>
-    <release>fix_schema</release>
+    <release>fix_schema2</release>
     <versions>
       <version>123</version>
       <version>fix_schema</version>
+      <version>fix_schema2</version>
     </versions>
-    <lastUpdated>20191120224925</lastUpdated>
+    <lastUpdated>20201010103259</lastUpdated>
   </versioning>
 </metadata>
