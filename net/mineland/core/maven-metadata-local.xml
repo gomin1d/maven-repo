@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>fixlightcrash2</release>
+    <release>autocraft</release>
     <versions>
       <version>log-lag</version>
       <version>log-lag-v2</version>
@@ -35,7 +35,8 @@
       <version>stopdebug</version>
       <version>fixlightcrash</version>
       <version>fixlightcrash2</version>
+      <version>autocraft</version>
     </versions>
-    <lastUpdated>20201010103109</lastUpdated>
+    <lastUpdated>20201010182129</lastUpdated>
   </versioning>
 </metadata>
