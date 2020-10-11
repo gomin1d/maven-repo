@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>BungeeBotFilter</artifactId>
   <versioning>
-    <release>1.16.3</release>
+    <release>fixoptifine</release>
     <versions>
       <version>3.6</version>
       <version>update1.14</version>
@@ -23,7 +23,8 @@
       <version>1.16</version>
       <version>1.16.2</version>
       <version>1.16.3</version>
+      <version>fixoptifine</version>
     </versions>
-    <lastUpdated>20200911233159</lastUpdated>
+    <lastUpdated>20201011100203</lastUpdated>
   </versioning>
 </metadata>
