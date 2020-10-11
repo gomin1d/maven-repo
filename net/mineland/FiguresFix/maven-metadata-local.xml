@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>FiguresFix</artifactId>
   <versioning>
-    <release>1.0.6</release>
+    <release>fixkickonjoin</release>
     <versions>
       <version>09.08.19-2</version>
       <version>22_09_19</version>
@@ -14,7 +14,8 @@
       <version>1.0.5</version>
       <version>1.0.5-fix</version>
       <version>1.0.6</version>
+      <version>fixkickonjoin</version>
     </versions>
-    <lastUpdated>20200321135629</lastUpdated>
+    <lastUpdated>20201011095254</lastUpdated>
   </versioning>
 </metadata>
