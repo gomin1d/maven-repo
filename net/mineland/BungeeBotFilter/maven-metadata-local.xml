@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>BungeeBotFilter</artifactId>
   <versioning>
-    <release>compressperformance2</release>
+    <release>fixinvisible</release>
     <versions>
       <version>3.6</version>
       <version>update1.14</version>
@@ -26,7 +26,8 @@
       <version>fixoptifine</version>
       <version>1.16.4</version>
       <version>compressperformance2</version>
+      <version>fixinvisible</version>
     </versions>
-    <lastUpdated>20210110094639</lastUpdated>
+    <lastUpdated>20210113190224</lastUpdated>
   </versioning>
 </metadata>
