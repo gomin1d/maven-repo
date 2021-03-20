@@ -3,13 +3,14 @@
   <groupId>net.mineland</groupId>
   <artifactId>LuckyBlock</artifactId>
   <versioning>
-    <release>swl-performance</release>
+    <release>swl-performance2</release>
     <versions>
       <version>fix</version>
       <version>fixdupe</version>
       <version>backwardcompatibility</version>
       <version>swl-performance</version>
+      <version>swl-performance2</version>
     </versions>
-    <lastUpdated>20210312222948</lastUpdated>
+    <lastUpdated>20210320062923</lastUpdated>
   </versioning>
 </metadata>
