@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>fixstandwater</release>
+    <release>tileentitylimit</release>
     <versions>
       <version>log-lag</version>
       <version>log-lag-v2</version>
@@ -40,7 +40,8 @@
       <version>fixyamldupe</version>
       <version>logupdateframe</version>
       <version>fixstandwater</version>
+      <version>tileentitylimit</version>
     </versions>
-    <lastUpdated>20210116151752</lastUpdated>
+    <lastUpdated>20210514225921</lastUpdated>
   </versioning>
 </metadata>
