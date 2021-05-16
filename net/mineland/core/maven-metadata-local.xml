@@ -3,7 +3,7 @@
   <groupId>net.mineland</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>tileentitylimit</release>
+    <release>antisyncloadskin</release>
     <versions>
       <version>log-lag</version>
       <version>log-lag-v2</version>
@@ -41,7 +41,8 @@
       <version>logupdateframe</version>
       <version>fixstandwater</version>
       <version>tileentitylimit</version>
+      <version>antisyncloadskin</version>
     </versions>
-    <lastUpdated>20210514225921</lastUpdated>
+    <lastUpdated>20210516053958</lastUpdated>
   </versioning>
 </metadata>
